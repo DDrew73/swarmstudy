@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Flocking\BoidFlocking.cs">
+    <Files>
+      <File FileName="Assets\Flocking\BoidFlocking.cs" Line="99" Column="30" />
+      <File FileName="Assets\Flocking\BoidWatcher.cs" Line="27" Column="4" />
+      <File FileName="Assets\Flocking\BoidController.cs" Line="56" Column="6" />
+      <File FileName="Assets\Scripts\Flocks\globalFlock.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\Flocks\flock.cs" Line="29" Column="17" />
+      <File FileName="Assets\Scripts\Flocks\flock_2.cs" Line="73" Column="6" />
+      <File FileName="Assets\Scripts\Flocks\globalFlock_2.cs" Line="35" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
